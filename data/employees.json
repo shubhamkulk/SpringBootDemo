@@ -1,0 +1,16 @@
+{
+  "employees": [
+    {
+      "name": "abc",
+      "skills": ["Java", "Spring", "Hibernate"]
+    },
+    {
+      "name": "def",
+      "skills": ["Python", "Django", "Flask"]
+    },
+    {
+      "name": "ghi",
+      "skills": ["C#", ".NET", "ASP.NET"]
+    }
+  ]
+}
